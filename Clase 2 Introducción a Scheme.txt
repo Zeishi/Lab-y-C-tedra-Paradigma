@@ -1,0 +1,6 @@
+Integer -3 88
+Float 3.94 4.65e2
+Boolean #t #f
+String "Hola Mundo"!
+Escaped String: "Hola Mundo!\n"
+Char: #\A

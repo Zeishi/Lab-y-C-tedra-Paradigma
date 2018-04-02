@@ -1,0 +1,15 @@
+#lang racket
+;Máximo (max)
+(remainder -21 4)
+;Operaciones básicas(+ - * /):
+(+ 5 -7)
+;Valor absoluto
+(magnitude -7)
+;division entera
+(quotient -21 4)
+;modulo
+(modulo -21 4)
+;resto
+(remainder -21 4)
+;máximo comun divisor
+(gcd 32 4 8)
