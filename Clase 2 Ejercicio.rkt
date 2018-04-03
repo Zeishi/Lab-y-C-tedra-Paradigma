@@ -18,7 +18,7 @@
   )
 )
 (newline)
-(potencia2 20 2 )
+(potencia2 2 3 )
 
 
 
